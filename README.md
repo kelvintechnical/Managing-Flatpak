@@ -1,4 +1,4 @@
-# Lab 8: Managing Flatpak
+ Managing Flatpak
 
 **RHCSA EX200 Lab** | Sander van Vugt Sample Exam  
 **Server:** server2 (EC2 AMI)  
